@@ -1,12 +1,6 @@
 # python-audio-visualizer
 
-a basic audio spectrum visualizer
-
-## Requirements
-
-* pygame
-* numpy
-* scipy
+a basic audio spectrum visualizer - i think it only works with .wav files
 
 ## Usage
 
